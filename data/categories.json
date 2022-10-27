@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "name": "Web Development",
+	    "img":"https://coderstrustbd.com/wp-content/uploads/2021/06/web-icon.png"
+      
+    },
+    {
+      "id": "2",
+      "name": "Graphics Design",
+	    "img":"https://coderstrustbd.com/wp-content/uploads/2021/06/gd-icon.png"
+    },
+    {
+      "id": "3",
+      "name": "Digital Marketing",
+	    "img":"https://coderstrustbd.com/wp-content/uploads/2021/06/dgm-icon.png"
+     
+    },
+    {
+      "id": "4",
+      "name": "Computer Science",
+	    "img":"https://coderstrustbd.com/wp-content/uploads/2021/06/video-icon.png"
+      
+    },
+    {
+      "id": "5",
+      "name": "English",
+	    "img":"https://coderstrustbd.com/wp-content/uploads/2021/06/ams-icon.png"
+
+    },
+    {
+      "id": "6",
+      "name": "Computer Network",
+	   "img":"https://coderstrustbd.com/wp-content/uploads/2021/06/ca-icon.png"
+    }
+    ,{
+      "id":"7",
+      "name":"All",
+	    "img":"https://coderstrustbd.com/wp-content/uploads/2021/06/buyer-icon.png"
+	  
+    }
+   
+  ]

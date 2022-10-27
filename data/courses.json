@@ -1,0 +1,316 @@
+[
+  {
+  "_id": "0282",
+  "category_id": "1",
+  "title": "Responsive Web Design",
+  "course_hours":"102",
+  "price":"22000",
+  "instructor":"Md Mohiuddin",
+  "image_url": "https://iexperto.io/wp-content/uploads/2020/08/Responsive-Web-Design.jpeg",
+  "description": "In this course, you will learn how to apply concepts from interaction design and human-computer interaction in order to design and build an interactive, professional-looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using JavaScript objects and templates. You’ll also learn about jQuery plugins and basic Word Press Theme Customization.",
+  "requirements":[
+    "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+    "Basic knowledge of English (reading/writing/speaking)",
+    "Familiarity with coding (for HTML/ CSS etc.)"
+  ],
+  "course_module":[
+    "Introduction of Website",
+    "Introduction with HTML",
+    "Creating web layout using HTML & CSS",
+    "Single page website concepts",
+    "Responsive Page using media query",
+    "CSS3 effects & implementation",
+    "Introduction with Bootstrap & responsive web design",
+    "PSD to Responsive Website Creation (Using Html, CSS & Bootstrap)",
+    "Introduction with JavaScript (Syntax, Variable, Expression & Condition)",
+    "Implementing JavaScript on Website"
+  ]
+},
+{
+  "_id": "0283",
+  "category_id": "1",
+  "title": "Advanced Web Development",
+  "course_hours":"96",
+  "instructor":"Md Hasan Ali",
+  "price":"24000",
+  "image_url": "https://coderstrustbd.com/wp-content/uploads/2021/06/AWD.jpg",
+  "description": "Advanced Web Development course is a complete training which provides the learners all the important necessary techniques and tools of web development with a wide range of practices in the coding of web application functionalities. With the advancement of internet technology, there is an increased demand for search engine-friendly web pages.",
+  "requirements":[
+    "PHP basic skill",
+    "Basic knowledge of English (reading/writing/speaking)",
+    "Familiarity with coding (HTML5/CSS3/jQuery/Bootstrap)"
+  ],
+  "course_module":[
+    "Introduction to PHP fundamentals",
+    "Looping statement, Function & Array",
+    "PHP OOP Basic",
+    "Database Management",
+    "Laravel overview",
+    "Authentication System",
+    "View and Blade",
+    "Model",
+    "Routes, Request",
+    "Project Deployment"
+  ]
+ },
+ {
+  "_id": "0284",
+  "category_id": "2",
+  "title": "Graphic Design",
+  "course_hours":"84",
+  "price":"22000",
+  "instructor":"Md Naim Hasan",
+  "image_url": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
+  "description": "Graphic design is the lifeline of Digital Marketing. It is currently one of the most sought-after skills in Bangladesh. Graphic design offers an idea to create visual content that communicates ideas and thoughts. In addition to being able to advertise your own business more effectively, you can also make an impact as a graphic designer on the freelance market.",
+  "requirements":[
+    "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+    "Basic knowledge of English (reading/writing/speaking)"
+  ],
+  "course_module":[
+    "Introduction to Graphics Design",
+    "Basic Tools - Adobe illustrator introduction, tools function and freehand design",
+    "A complete Business Card Design session",
+    "A complete Logo Design session",
+    "A complete Vector Tracing session",
+    "Session on Logo Design Concept Development",
+    "Session on Roll up Banner and Banner Design",
+    "Getting Familiar with UI/UX Design A complete Session on Mobile UI Design",
+    "A complete Session on Web Template Design",
+    "A complete Session on Masking"
+  ]
+ },
+ {
+  "_id": "0285",
+  "category_id": "2",
+  "title": "Motion Graphics",
+  "course_hours":"72",
+  "instructor":"Md Kabir Khan",
+  "price":"18000",
+  "image_url": "https://i.ytimg.com/vi/9bnOVV3EBC8/maxresdefault.jpg",
+  "description": "In simple words, motion graphics as a great source of storytelling combines animation and Graphic Design. As animation design uses not only simple visual elements such as text, shapes, or images but also engages auditory receptors to communicate ideas, it is more memorable for viewers than just static pictures. If you are trying to convey a message or information to the audience, this will help you do that easily and effectively. Through this method, you can convert your idea into animation by adding suitable audio and other features so that content will be more acceptable and understandable for the audience.",
+  "requirements":[
+    "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+    "Basic knowledge of English (reading/writing/speaking)"
+  ],
+  "course_module":[
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Assignment Analysis, Test and Ending discussion on AI and PS",
+    "After Effects Basic, Key-frame & Timeline",
+    "Shape Motion, Effects and Presets",
+    "Text, Title and Kinetic Typography",
+    "Animated GIF Banner & Lower Third",
+    "Logo Animation",
+    "Slideshow and Real Estate Promo",
+    "Promotional & Infographics Animation"
+  ]
+ },
+ {
+  "_id": "0286",
+  "category_id": "3",
+  "title": "Digital Marketing",
+  "course_hours":"78",
+  "instructor":"Md Selim Alahi",
+  "price":"19000",
+  "image_url": "https://coderstrustbd.com/wp-content/uploads/2021/06/dgm-n.jpg",
+  "description": "This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies, and implementation, including planning a website, website promotion, email and Search Engine Optimization (SEO) campaigns, and integrating digital marketing with traditional marketing.",
+  "requirements":[
+    "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+    "Basic knowledge of English (reading/writing/speaking)",
+    "Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+  ],
+  "course_module":[
+    "Overview Of Digital Marketing",
+    "Facebook Business Page",
+    "Facebook Business Manager",
+    "All about Facebook Ads",
+    "Facebook Retargeting",
+    "Facebook Pixel",
+    "SEO Overview",
+    "SEO Ranking Factors",
+    "Keyword For SEO",
+    "Complete On Page SEO using Yoast/Rank Math plugin"
+  ]
+ },
+ {
+  "_id": "0287",
+  "category_id": "3",
+  "title": "Advanced SEO & Amazon Affiliate Marketing",
+  "course_hours":"72",
+  "instructor":"Md Rifat Hasan",
+  "price":"19000",
+  "image_url": "https://coderstrustbd.com/wp-content/uploads/2021/06/seo.jpg",
+  "description": "Advanced SEO & Amazon Affiliate Marketing course will let you understand how to rank your website and also deal as third party publishers for huge passive income.Visibility and high rank on the website are the prime demand of every company. Proper utilization of SEO ensures your online visibility and ranks your website. Thus you can have more leads and engagements. Good SEO practice is one of the vital requirements for branding your products.",
+  "requirements":[
+    "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+    "Basic knowledge of English (reading/writing/speaking)",
+    "Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+  ],
+  "course_module":[
+    "Orientation and getting informed about Coderstrust Rules and Regulation",
+    "SEO Overview",
+    "​Important SEO Glossary",
+    "Google Ranking Factors",
+    "Google Core Algorithms",
+    "Affiliate Marketing lifecycle",
+    "Keyword Research basic",
+    "Keyword Research and Competitor Analysis using Paid Tools",
+    "Web Brand Identity Making (Design)",
+    "Website Customization for Amazon"
+  ]
+ },
+ {
+  "_id": "0288",
+  "category_id": "4",
+  "title": "Master the Theory Behind Programming",
+  "course_hours":"72",
+  "instructor":"Md Nazmul Hasan",
+  "price":"19000",
+  "image_url": "https://sparkdatabox.com/uploads/thumbnails/course_thumbnails/b8092bd8470329cbbaf70ed330485a2c.jpg",
+  "description": "Understand the Fundamental Theories of Algorithm Analysis.Be able to Compare Various Algorithms.Understand When to use Different Data Structures and Algorithms.Understand the Fundamentals of Computer Science theory",
+  "requirements":[
+    "A Willingness to Learn New Topics!",
+    "No Prior Experience or Knowledge is Needed!"
+ 
+  ],
+  "course_module":[
+    "Analyzing Algorithms",
+    "Arrays",
+    "​Linked Lists",
+    "Stacks and Queue",
+    "Sorting Algorithms",
+    "Trees",
+    "Heaps",
+    "Graps"
+ 
+  ]
+ },
+ {
+  "_id": "0289",
+  "category_id": "4",
+  "title": "Computers & Programming for Beginners",
+  "course_hours":"82",
+  "instructor":"Md Sifat Hasan",
+  "price":"19000",
+  "image_url": "https://static1.smartbear.co/smartbearbrand/media/images/blog/what%E2%80%99s-the-best-programming-language-to-learn-first.png?ext=.png",
+  "description": "Computer Science is a topic that is becoming more and more relevant. Whether in college, school or at work. Computers and computer programs are everywhere in our everyday lives. We use software in smartphones, ATMs and even household appliances that we are able to control with our smartphones. A lot of people are confused and don't really know how all of this actually works.This compact course will take you from zero knowledge to having a solid understanding of the basic concepts of computer science and programming languages.",
+  "requirements":[
+    "Access to a computer might be beneficial but is not needed",
+    "Interest in Computer Science and Programming"
+ 
+  ],
+  "course_module":[
+    "Basic Programming",
+    "Programming Paradiams",
+    "​Glossary",
+    "A Stands for",
+    "B Stands for",
+    "C Stands for",
+    "D Stands for",
+    "E Stands for"
+ 
+  ]
+ },
+ {
+  "_id": "02810",
+  "category_id": "5",
+  "title": "English Grammar, English Speaking",
+  "course_hours":"35",
+  "price":"9000",
+  "instructor":"Md Robiul Hasan",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFSBgCxBTKE9LkA_QVxE2iJU7cK6APM5F1eQ&usqp=CAU",
+  "description": " Over 90 different English grammar topics. No other course covers as many English Grammar topics. Full video lessons and conversations showing you the English grammar in use. You will learn to score higher on your English exams like TOEIC, IELTS, or TOEFL. Hundred of practice problems and examples. Full-length PDFs for offline learning.",
+  "requirements":[
+    "Students should be able to read and understand basic English"
+  ],
+  "course_module":[
+    "How English Works",
+    "English Grammer Section",
+    "​Verb Tense",
+    "Simple Present Tense",
+    "Verb Conjugation",
+    "Subject-Verb Agreement",
+    "Simple Past Tense",
+    "Simple Futer Tense",
+    "Present Continuous Tense"
+ 
+  ]
+ },
+ {
+  "_id": "02811",
+  "category_id": "5",
+  "title": "Master English Grammar - Advanced Level",
+  "course_hours":"55",
+  "instructor":"Md Hasan Rahman",
+  "price":"15000",
+  "image_url": "https://careermite.com/wp-content/uploads/2021/02/how-to-improve-english-grammar.jpg",
+  "description": " By the end of the course, your knowledge of English grammar will be deep enough to take on advanced exams, to watch US and UK TV, and to speak in a more complex way. Though accessible to intermediate students, the course delves into the details on many themes, for I have a passion for advanced grammar. I do not speak to my students slowly, as though they were pre-intermediate learners, so if that's the kind of course you are looking for, this one is not for you. Nonetheless, I do respond quickly to inquisitive students, so please join the fun if you are ready!",
+  "requirements":[
+    "An intermediate level of English is required",
+    "A passionate commitment to grammar is desired"
+  ],
+  "course_module":[
+    "Present and Past tenses in simple and continuous",
+    "The Present Tense in all Aspects",
+    "​The Past Tense in all Aspects",
+    "The Future Tense in all Aspects",
+    "Reported Speech",
+    "Active and Passive forms",
+    "Modal Verbs",
+    "Conditionals",
+    "Determiners and Articles"
+ 
+  ]
+ },
+ {
+  "_id": "02812",
+  "category_id": "6",
+  "title": "The Complete Networking Fundamentals Course. Your CCNA start",
+  "course_hours":"105",
+  "instructor":"Md Kalam ",
+  "price":"25000",
+  "image_url": "https://cdn.mindmajix.com/courses/ccna-training-110620.png",
+  "description": " Welcome to the Complete Network Fundamentals Course! In this course, you will learn the technologies that keep the world as you know today connected and running. We cover both the fundamentals of networking as well as the topics in the new Cisco CCNA 200-301 exam.Networks are all around us and you are using one right now to access this course.",
+  "requirements":[
+    "There are no specific prerequisites as the course covers all the topics in detail.",
+    "Basic understanding of computers (connect to the Internet)"
+  ],
+  "course_module":[
+    "Download and Install Recommended software",
+    "Basic Networking Terms",
+    "​TCP/IP Model",
+    "Binary",
+    "Hexadecimal",
+    "IP Addressing",
+    "Initial Device Configuration",
+    "IP Subnetting",
+    "Subnetting Packet Tracer Lab 1"
+ 
+  ]
+ },
+ {
+  "_id": "02813",
+  "category_id": "6",
+  "title": "Networking Fundamentals",
+  "course_hours":"85",
+  "instructor":"Md Josim Hasan",
+  "price":"15000",
+  "image_url": "https://i.ytimg.com/vi/k9ZigsW9il0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDQ_33pZo9s-gC1yRYusUATJvQxVw",
+  "description": " A computer network comprises two or more computers that are connected—either by cables (wired) or WiFi (wireless)—with the purpose of transmitting, exchanging, or sharing data and resources. You build a computer network using hardware (e.g., routers, switches, access points, and cables) and software (e.g., operating systems or business applications).Geographic location often defines a computer network. For example, a LAN (local area network) connects computers in a defined physical space, like an office building, whereas a WAN (wide area network) can connect computers across continents. The internet is the largest example of a WAN, connecting billions of computers worldwide.",
+  "requirements":[
+    "Basic Computer and IT Skills (For Students)",
+    "CompTIA Network+ or CCNA at least is recommended (For Instructors)",
+    "Experience in teaching Computer Networking or desire to teach this topic (For Instructors)"
+  ],
+  "course_module":[
+    "LANs,Addressing,Media Types,Topologies,Switching",
+    "Networkgin Models",
+    "​WANs",
+    "Networking Services: DNS and DHCP",
+    "Routing",
+    ",Remote Access",
+    "Security"
+ 
+  ]
+ }
+]
